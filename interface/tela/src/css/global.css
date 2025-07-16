@@ -1,0 +1,18 @@
+:root{
+    --backgroud: #f4f1de;
+    --text: #3d405b;
+
+    --primary: #81b29a;           
+    --secondary: #e07a5f;         
+    --accent: #f2cc8f;            
+  
+    --card: #ffffff;
+    --input-bg: #fafafa;
+    --border: #e6e6e6;
+}
+body{
+    background-color: var(--backgroud);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+    font-family:Arial, Helvetica, sans-serif;
+}
